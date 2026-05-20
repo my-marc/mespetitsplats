@@ -396,7 +396,7 @@ const dishes = [
     name: "Salade au halloumi grillé, zaatar et bresaola",
     subtitle: "Roquette • Bresaola • Vinaigrette zaatar",
     time: "16 min", servings: 2, difficulty: "Facile", calories: "520 kcal",
-    image: "/images/salade-halloumi-bresaola.jpg",
+    image: "/images/salade-halloumi-bresaola.webp",
     tags: ["Salade", "Levantine", "Estivale"],
     ingredients: [
       { item: "Halloumi", qty: "200 g" }, { item: "Roquette", qty: "1 sachet" },
@@ -491,7 +491,7 @@ const dishes = [
     name: "Bœuf sauté à la thaï",
     subtitle: "Riz • Échalotes • Basilic thaï • Sriracha",
     time: "45 min", servings: 4, difficulty: "Moyen", calories: "560 kcal",
-    image: "/images/salade-boeuf-thai.jpg",
+    image: "/images/boeuf-saute-thai.webp",
     tags: ["Bœuf", "Thaï", "Épicé"],
     ingredients: [
       { item: "Bavettes de bœuf", qty: "2 pièces (~450 g)" }, { item: "Riz thaï", qty: "400 g" },
